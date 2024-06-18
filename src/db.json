@@ -1,0 +1,58 @@
+[
+    {
+        "img": "images/product1/p1.jfif",
+        "id": "01",
+        "title": "Wrogn Watches",
+        "price": "Rs. 5,691.71",
+        "des": "Extremely comfortable daily use watch with leather belt."
+    },
+    {
+        "img": "images/product1/p2.jfif",
+        "id": "02",
+        "title": "TIMEX Analog Black Dial Men's Watch-TW000U914",
+        "price": "Rs. 5,691.71",
+        "des": "Dial Color: Black, Case Shape: Round Band Color: Brown, Band Material: Leather"
+    },
+    {
+        "img": "images/product1/p3.jpg",
+        "id": "03",
+        "title": "Tommy Hilfiger Analog Orange Dial Men's Watch-TH1792003",
+        "price": "Rs. 8,121",
+        "des": "Band Colour-Brown, Band Material-Leather, Band Width-21 Millimeters"
+    },
+    {
+        "img": "images/product1/p4.jfif",
+        "id": "04",
+        "title": "GUESS Emblem Collection Analog Rose Gold Dial Women's Watch-GW0509L1",
+        "price": "Rs. 8,995",
+        "des": "Band Colour-Blue, Band Material-Silicone, Golden Dial"
+    },
+    {
+        "img": "images/product1/p5.jfif",
+        "id": "05",
+        "title": "Titan Neo Iv Analog Black Dial Men's Watch-NL1805NL01/NP1805NL01",
+        "price": "Rs. 5,495",
+        "des": "Dial Color: Black, Case Shape: Round, Dial Glass Material: Mineral Band Color: Brown, Band Material: Leather"
+    },
+    {
+        "img": "images/product1/p6.jfif",
+        "id": "06",
+        "title": "Titan Raga Viva Analog Rose Gold Dial Women's Watch-2644KM02/NR2644KM02",
+        "price": "Rs. 6,745",
+        "des": "Rose Gold - Steel dual colored unique bracelet design, Manfucturer Warranty : 2 years"
+    },
+    {
+        "img": "images/product1/p7.jfif",
+        "id": "07",
+        "title": "French Connection Analog Women's Watch (Dial Colored Strap)",
+        "price": "Rs. 1,390",
+        "des": ">Dial Color: Green , Case Shape: Round, Dial Glass Material: Mineral"
+    },
+    {
+        "img": "images/product1/p8.jfif",
+        "id": "08",
+        "title": "TIMEX Analog Pink Dial Women's Watch-TWEL98SMU07",
+        "price": "Rs. 2,271",
+        "des": "Band Colour-Rose Gold, Band Material-Stainless Steel, Band Width-18 Millimeters"
+    }
+]
