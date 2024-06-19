@@ -12,6 +12,7 @@ import { MainComponent } from './main/main.component';
   imports: [
     CommonModule,
     ProductRoutingModule
-  ]
+  ],
+  exports:[MainComponent]
 })
 export class ProductModule { }
