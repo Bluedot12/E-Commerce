@@ -1,56 +1,56 @@
 {
     "products":[
         {
-            "img": "Ecomm/src/assets/images/products/p1.jpg",
+            "img": "/assets/images/products/p1.jpg",
             "id": "01",
             "title": "Wrogn Watches",
             "price": "Rs. 5,691.71",
             "des": "Extremely comfortable daily use watch with leather belt."
         },
         {
-            "img": "Ecomm/src/assets/images/products/p2.jpg",
+            "img": "/assets/images/products/p2.jpg",
             "id": "02",
             "title": "TIMEX Analog Black Dial Men's Watch-TW000U914",
             "price": "Rs. 5,691.71",
             "des": "Dial Color: Black, Case Shape: Round Band Color: Brown, Band Material: Leather"
         },
         {
-            "img": "Ecomm/src/assets/images/products/p3.jpg",
+            "img": "/assets/images/products/p3.jpg",
             "id": "03",
             "title": "Tommy Hilfiger Analog Orange Dial Men's Watch-TH1792003",
             "price": "Rs. 8,121",
             "des": "Band Colour-Brown, Band Material-Leather, Band Width-21 Millimeters"
         },
         {
-            "img": "Ecomm/src/assets/images/products/p4.jpg",
+            "img": "/assets/images/products/p4.jpg",
             "id": "04",
             "title": "GUESS Emblem Collection Analog Rose Gold Dial Women's Watch-GW0509L1",
             "price": "Rs. 8,995",
             "des": "Band Colour-Blue, Band Material-Silicone, Golden Dial"
         },
         {
-            "img": "Ecomm/src/assets/images/products/p5.jpg",
+            "img": "/assets/images/products/p5.jpg",
             "id": "05",
             "title": "Titan Neo Iv Analog Black Dial Men's Watch-NL1805NL01/NP1805NL01",
             "price": "Rs. 5,495",
             "des": "Dial Color: Black, Case Shape: Round, Dial Glass Material: Mineral Band Color: Brown, Band Material: Leather"
         },
         {
-            "img": "Ecomm/src/assets/images/products/p6.jpg",
+            "img": "/assets/images/products/p6.jpg",
             "id": "06",
             "title": "Titan Raga Viva Analog Rose Gold Dial Women's Watch-2644KM02/NR2644KM02",
             "price": "Rs. 6,745",
             "des": "Rose Gold - Steel dual colored unique bracelet design, Manfucturer Warranty : 2 years"
         },
         {
-            "img": "Ecomm/src/assets/images/products/p7.jpg",
+            "img": "/assets/images/products/p7.jpg",
             "id": "07",
             "title": "French Connection Analog Women's Watch (Dial Colored Strap)",
             "price": "Rs. 1,390",
             "des": ">Dial Color: Green , Case Shape: Round, Dial Glass Material: Mineral"
         },
         {
-            "img": "Ecomm/src/assets/images/products/p8.jpg",
+            "img": "/assets/images/products/p8.jpg",
             "id": "08",
             "title": "TIMEX Analog Pink Dial Women's Watch-TWEL98SMU07",
             "price": "Rs. 2,271",

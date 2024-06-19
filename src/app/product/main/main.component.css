@@ -1,0 +1,22 @@
+.card{
+    margin-left: 50px;
+    margin-top: 40px;
+    height: 532px;
+    width: 350px;
+    border:2px solid black
+}
+
+.btn{
+    height: 50px;
+    width: 150px;
+    border-radius: 20px;
+    border: double 5px;
+}
+
+img{
+    height:250px;
+    width: 250px;
+    border-radius: 20px;
+    margin-left: 50px;
+    margin-top: 10px;
+}

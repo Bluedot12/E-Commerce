@@ -1,13 +1,17 @@
-<p>Feature</p>
-<!-- <div *ngFor="let prod of products">
+<div *ngFor="let product of prod">
 
-    <div class="card" style="width: 18rem;">
-        <img src="..." class="card-img-top" alt="...">
+    <div class="card" style=" float: left;">
+        <img [src]="product.img" class="card-img-top" alt={{product.title}}>
         <div class="card-body">
-            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's
-                content.</p>
+            <h5 class="card-text">{{product.title}}</h5>
+            <h6 class="card-text">{{product.price}}</h6>
+            <p class="card-text">{{product.des}}</p>
         </div>
-        <a href="#" class="card-link">Card link</a>
-        <a href="#" class="card-link">Another link</a>
+        <div>
+            <nav>
+                <button (click)="navigateToDetail()" type="button" class="btn btn-warning" style="margin: 5px;">Product details</button>
+                <button (click)="navigateToCart()"type="button" class="btn btn-success" style="margin: 5px;">Add to cart</button>
+            </nav>
+        </div>
     </div>
-</div> -->
+</div>
