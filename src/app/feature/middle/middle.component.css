@@ -1,0 +1,53 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    padding-bottom: 50px;
+    background-color: rgb(244, 243, 241);
+  }
+  
+  .container {
+    margin-top: 55px;
+    display: flex;
+    align-items: stretch;
+    flex-grow: 1;
+    height: calc(100vh - 110px);
+    margin-bottom: 50px;
+    
+  }
+  
+  .carousel {
+    margin-top: 70px;
+    height: 100%;
+  }
+  
+  .carousel-inner {
+    height: 100%;
+  }
+  
+  .carousel-item img {
+    height: 100%;
+    object-fit: cover;
+  }
+  
+  .cards {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    overflow-y: auto;
+  }
+  
+  .cards .card {
+    flex: 1;
+    margin-bottom: 10px;
+    background-color: #fcfdff;
+    margin-top: 10px;
+    padding: 0;
+    font-size: 3px;
+  }
+  
+  .blockquote {
+    font-size: 1rem;
+    margin-top: 1rem;
+    color: #6c757d;
+  }
